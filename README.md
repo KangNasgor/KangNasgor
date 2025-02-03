@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a newbie Web Developer from Indonesia
+I'm a Web Developer from Indonesia
 
 
 ## 🌐 Socials:
