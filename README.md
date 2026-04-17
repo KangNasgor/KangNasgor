@@ -1,5 +1,12 @@
-# About Me:
+# About Me :
 I'm a Web Developer from Indonesia
+
+## Tech Stack :
+- React
+- NextJS
+- Laravel
+- Typescript
+- SQL
 
 
 ## 🌐 Socials:
